@@ -57,7 +57,7 @@ PyProBE documentation
 
       +++
 
-      .. button-link:: developer_guide/developer_guide
+      .. button-ref:: developer_guide/developer_guide
          :expand:
          :color: secondary
          :click-parent:
